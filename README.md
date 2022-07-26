@@ -67,6 +67,7 @@ Repository with the documentation and examples of how to use the package.
 
 <ul>
 	<li>https://github.com/AnabeatrizMacedo241/Euro2020_API</li>
+	<li>https://github.com/AnabeatrizMacedo241/women_in_sports_hackathon</li>
 </ul>
 
 <br />
