@@ -1,4 +1,6 @@
 # Euro 2020 API ⚽️
+<p> Made for the Women In Sports Data Hackaton
+</p>
 <h4><a href="#introduction">About the API</a> | <a href="#instruction">How to use</a> | <a href="#reference">Reference</a> | <a href="#functions">Documentation</a> | <a href="#code">Github</a> </h4>
 
 <br />
