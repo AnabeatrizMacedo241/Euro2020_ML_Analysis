@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+Euro2020_API/Euro2020_API.py
+Euro2020_API/__init__.py
+Euro2020_API.egg-info/PKG-INFO
+Euro2020_API.egg-info/SOURCES.txt
+Euro2020_API.egg-info/dependency_links.txt
+Euro2020_API.egg-info/requires.txt
+Euro2020_API.egg-info/top_level.txt
