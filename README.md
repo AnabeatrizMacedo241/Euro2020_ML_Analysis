@@ -57,7 +57,15 @@ Get insightful charts and informations from player and team performance during t
   <li>player_name= Name of the player you want.</li>
   <li>player1,player2 = Name of the two players you desire to compare.</li>  
 	</ul>
+
 </p>
+
+<br />
+<br />
+
+<strong>Example of Outcome plots</strong>
+
+<img width="1182" alt="Screen Shot 2021-11-30 at 15 42 40" src="https://user-images.githubusercontent.com/84348494/181510011-bd8398e9-814f-4597-8479-e4398ff1581f.png">
 
 <br />
 
