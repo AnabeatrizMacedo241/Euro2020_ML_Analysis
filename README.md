@@ -8,7 +8,7 @@
 <h2 id="introduction">About the API </h2>
 <p>
 	Working with data from Euro 2020.
-Get insightful charts and informations from player and team performance during the competition using statsbomb and fbref data.
+Get insightful charts and informations from player and team performance during the competition using statsbomb and fbref data to generate Machine Learning models to recommend players and predict good passers.
 </p>
 
 <br />
